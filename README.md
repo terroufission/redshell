@@ -9,7 +9,7 @@
 
 <h1 align="center">
   <br>
-  <img src="MKW_Red_Shell_Roulette" alt="Redshell" width="200">
+  <img src="MKW_Red_Shell_Roulette.png" alt="Redshell" width="200">
   <br>
   <b>Orchid</b>
   <br>

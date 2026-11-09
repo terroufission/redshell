@@ -16,8 +16,7 @@
 </h1>
 
 <h4 align="center">Hopefully a Mario Kart Emulator. Fork of Orchid. Orchid started from
-<a href="https://github.com/zortos293/Eglantine">Eglantine</a> and has grown into its own project, with fixes aimed at
-Mario Tennis Fever first, plus the shader, kernel and graphics work other games need.</h4>
+<a href="https://github.com/zortos293/Eglantine">Eglantine</a>.
 
 
 ## License

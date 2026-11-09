@@ -11,7 +11,7 @@
   <br>
   <img src="MKW_Red_Shell_Roulette.png" alt="Redshell" width="200">
   <br>
-  <b>Orchid</b>
+  <b>Redshell</b>
   <br>
 </h1>
 
